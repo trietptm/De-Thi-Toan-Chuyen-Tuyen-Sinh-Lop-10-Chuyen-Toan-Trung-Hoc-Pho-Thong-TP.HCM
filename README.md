@@ -3,7 +3,14 @@
 * Liên hệ học thử: 0962797946 (FaceTime, Zalo,...), [Facebook](https://www.facebook.com/trietptm) gần ngã ba Hồ Văn Huê - Nguyễn Kiệm, Phú Nhuận.
 https://goo.gl/maps/CghSicAvrM6nnYJ8A
 
+## 2020:
+![image](https://github.com/trietptm/De-Thi-Toan-Chuyen-Tuyen-Sinh-Lop-10-Chuyen-Toan-Trung-Hoc-Pho-Thong-TP.HCM/assets/526959/0b6413c0-83d6-4b63-ab02-b90d40743e49)
+
+![image](https://github.com/trietptm/De-Thi-Toan-Chuyen-Tuyen-Sinh-Lop-10-Chuyen-Toan-Trung-Hoc-Pho-Thong-TP.HCM/assets/526959/1c614772-416b-49b5-9d96-d01b686741a7)
+
 ## 2019:
+![image](https://github.com/trietptm/De-Thi-Toan-Chuyen-Tuyen-Sinh-Lop-10-Chuyen-Toan-Trung-Hoc-Pho-Thong-TP.HCM/assets/526959/f8efb733-6e5e-4801-87ef-9f458476758c)
+
 ![image](https://user-images.githubusercontent.com/526959/212002299-a36b7b91-e0fd-4c63-964d-ceef74169083.png)
 
 ## 2018:
