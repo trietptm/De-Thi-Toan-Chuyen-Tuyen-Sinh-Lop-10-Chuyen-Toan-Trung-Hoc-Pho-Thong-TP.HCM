@@ -63,6 +63,8 @@ https://goo.gl/maps/CghSicAvrM6nnYJ8A
 ![image](https://github.com/trietptm/De-Thi-Toan-Chuyen-Tuyen-Sinh-Lop-10-Chuyen-Toan-Trung-Hoc-Pho-Thong-TP.HCM/assets/526959/f5d08013-3535-41fa-bdfe-4ff7bf78eefe)
 
 ## 2009-2010:
+![image](https://github.com/trietptm/De-Thi-Toan-Chuyen-Tuyen-Sinh-Lop-10-Chuyen-Toan-Trung-Hoc-Pho-Thong-TP.HCM/assets/526959/1d2d3130-3907-448b-8a4b-5c00e46bef9f)
+
 ![image](https://github.com/trietptm/De-Thi-Toan-Chuyen-Tuyen-Sinh-Lop-10-Chuyen-Toan-Trung-Hoc-Pho-Thong-TP.HCM/assets/526959/6de852ed-06db-489d-9351-b80d1305b4b1)
 
 ![image](https://user-images.githubusercontent.com/526959/217496479-9b390166-4943-4365-8bf1-a2c5f9e6f242.png)
