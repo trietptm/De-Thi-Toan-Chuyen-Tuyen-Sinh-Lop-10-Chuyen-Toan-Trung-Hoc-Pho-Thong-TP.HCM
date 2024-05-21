@@ -95,6 +95,12 @@ https://goo.gl/maps/CghSicAvrM6nnYJ8A
 ![image](https://github.com/trietptm/De-Thi-Toan-Chuyen-Tuyen-Sinh-Lop-10-Chuyen-Toan-Trung-Hoc-Pho-Thong-TP.HCM/assets/526959/603fcd12-64ff-4c69-bff1-eab21f9ce4b6)
 
 
+## THAM KHẢO THÊM:
+* https://github.com/trietptm/De-Thi-Toan-Chuyen-Tuyen-Sinh-Lop-10-Chuyen-Toan-PTNK
+* https://github.com/trietptm/De-Thi-Toan-Khong-Chuyen-Tuyen-Sinh-Lop-10-PTNK
+* https://github.com/trietptm/De-Thi-Chon-Doi-Tuyen-Toan-Hoc-Sinh-Gioi-Toan-Tran-Dai-Nghia
+* https://github.com/trietptm/De-Thi-Toan-Tuyen-Sinh-Lop-10-Trung-Hoc-Pho-Thong-Tot-Nghiep-Trung-Hoc-Co-So-TP.HCM
+* 
 
 
 
