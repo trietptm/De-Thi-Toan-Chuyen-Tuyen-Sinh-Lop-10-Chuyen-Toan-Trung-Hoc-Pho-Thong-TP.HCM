@@ -94,6 +94,88 @@ https://goo.gl/maps/CghSicAvrM6nnYJ8A
 ## 2004-2005:
 ![image](https://github.com/trietptm/De-Thi-Toan-Chuyen-Tuyen-Sinh-Lop-10-Chuyen-Toan-Trung-Hoc-Pho-Thong-TP.HCM/assets/526959/603fcd12-64ff-4c69-bff1-eab21f9ce4b6)
 
+## CÁC CHUYÊN ĐỀ ÔN THI HỌC SINH GIỎI TOÁN LỚP 9 Ở TP.HCM:
+* Phương pháp phản chứng
+  * Sử dụng phản ví dụ nhỏ nhất/lớn nhất
+* Phương pháp chứng minh bằng phép quy nạp toán học (phương pháp/nguyên lí quy nạp toán học)
+  * Quy nạp toán học trong đại số và bất đẳng thức
+  * Quy nạp toán học trong số học
+  * Quy nạp toán học trong các bài toán trò chơi
+  * Quy nạp toán học trong bài toán đếm
+* Phương pháp chứng minh bằng nguyên lí cực hạn (phương pháp đại lượng cực biên), xét trường hợp cực hạn
+* Nguyên lí Dirichlet
+  * Nguyên lí Dirichlet trong số học
+  * Nguyên lí Dirichlet và các bài toán bất đẳng thức
+  * Nguyên lí Dirichlet trong tổ hợp
+  * Nguyên lí Dirichlet trong hình học
+* Phép chia hết, phép chia có dư, đồng dư thức
+  * Số học và các hằng đẳng thức
+    * Xét tính chẵn lẻ
+  * Định lý nhỏ Fermat, định lý Euler, định lý Wilson
+* Ước chung lớn nhất, bội chung nhỏ nhất
+* Số nguyên tố, hợp số
+* Số chính phương, số lập phương, số lũy thừa
+* Phương trình nghiệm nguyên và hệ phương trình nghiệm nguyên
+  * Phương pháp xuống thang
+* Dãy số nguyên
+* Đa thức và ứng dụng
+* Bất đẳng thức và ứng dụng trong đại số, số học
+  * Các phương pháp chứng minh bất đẳng thức
+  * Bất đẳng thức số học
+* Phương trình bậc hai một ẩn số và định lí Viet
+  * Điều kiện có nghiệm của một phương trình bậc hai
+* Hệ phương trình hai ẩn mẫu mực
+  * Hệ phương trình bậc nhất hai ẩn
+  * Hệ phương trình hai ẩn đối xứng loại 1
+  * Hệ phương trình hai ẩn đối xứng loại 2
+  * Hệ phương trình đồng bậc/đẳng cấp. 
+  * Hệ phương trình bậc nhất hai ẩn và bậc hai hai ẩn
+* Hệ phương trình ba ẩn 
+* Hệ phương trình không mẫu mực
+  * Biến đổi đại số để tìm nghiệm
+  * Đặt ẩn phụ
+  * Phân tích đa thức thành nhân tử
+  * Phương pháp thế
+  * Sử dụng bất đẳng thức
+* Phương trình không mẫu mực
+* Bất phương trình và hệ bất phương trình
+* Chuyên đề toán suy luận tổ hợp, toán rời rạc, toán logic, trò chơi và các bất biến
+  * Graph (đồ thị)
+  * Cực trị tổ hợp/tối ưu tổ hợp
+* Cực trị hình học
+  * Tìm giá giá trị lớn nhất, giá trị nhỏ nhất của một đại lượng hình học
+* Quỹ tích (tập hợp điểm)
+* Định lý hình học và các phương pháp chứng minh
+  * Hình học tam giác, tứ giác
+    * Hệ thức lượng trong tam giác vuông
+    * Tỉ số lượng giác
+    * Định lí Ceva, định lí Menelaus, định lí Van Aubel
+  * Đường tròn, góc với đường tròn, tứ giác nội tiếp và hệ thức lượng trong đường tròn (phương tích,...)
+    * Tiếp tuyến và đường tròn
+    * Phương tích
+    * Đường thẳng Simson, đường thẳng Steiner
+    * Đường thẳng Euler, đường tròn Euler và các kết quả liên quan
+    * Định lí Ptolemy và các kết quả liên quan
+    * Định lí Miquel
+    * Bổ đề liên hệ điểm chính giữa cung với tâm đường tròn nội tiếp và tâm đường tròn ngoại tiếp tam giác
+    * Bổ đề bắn (shooting lemma)
+    * Định lí Reim
+    * Định lí ERIQ (Equal Ratios In Quadrilateral)
+    * Điểm HM/Humpty và điểm Dumpty (ví dụ: điểm A-Humpty / điểm A-HM, điểm A-Dumpty)
+  * Các phép biến hình:
+    * Các phép dời hình: phép tịnh tiến, phép quay và phép đối xứng trục
+    * Phép vị tự, phép quay, phép vị tự quay và phép biến đổi đối song
+  * Chứng minh các điểm thẳng hàng, các đường thẳng đồng quy
+    * Đường thẳng Simson, đường thẳng Steiner, đường thẳng Euler
+  * Chứng minh quan hệ song song, vuông góc giữa các đường thẳng
+  * Chứng minh các điểm cùng thuộc một đường tròn (đồng viên)
+  * Chứng minh một đường thẳng là tiếp tuyến của một đường tròn
+  * Chứng minh hai góc bằng nhau, hai đoạn thẳng bằng nhau và các hệ thức hình học
+  * Tìm và chứng minh các điểm cố định mà một đường thẳng/đường tròn đi qua
+* Các bài toán hình học có nội dung tính toán
+* Hình học tổ hợp
+  * Bài toán phủ hình
+* 
 
 ## THAM KHẢO THÊM:
 * https://github.com/trietptm/De-Thi-Toan-Chuyen-Tuyen-Sinh-Lop-10-Chuyen-Toan-PTNK
