@@ -117,6 +117,7 @@ https://goo.gl/maps/CghSicAvrM6nnYJ8A
 * Số chính phương, số lập phương, số lũy thừa
 * Phương trình nghiệm nguyên và hệ phương trình nghiệm nguyên
   * Phương pháp xuống thang
+* Số nguyên
 * Dãy số nguyên
 * Đa thức và ứng dụng
 * Bất đẳng thức và ứng dụng trong đại số, số học
