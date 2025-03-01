@@ -9,6 +9,8 @@ https://goo.gl/maps/CghSicAvrM6nnYJ8A
 ## 2023-2024:
 ![image](https://github.com/trietptm/De-Thi-Toan-Chuyen-Tuyen-Sinh-Lop-10-Chuyen-Toan-Trung-Hoc-Pho-Thong-TP.HCM/assets/526959/369f19d6-5539-40b3-be66-d7504114a44f)
 
+![image](https://github.com/user-attachments/assets/85cf315b-89e4-4e2d-ad83-5be6088602de)
+
 ## 2022-2023:
 ![image](https://github.com/trietptm/De-Thi-Toan-Chuyen-Tuyen-Sinh-Lop-10-Chuyen-Toan-Trung-Hoc-Pho-Thong-TP.HCM/assets/526959/b92b4a97-44c1-4033-9457-3b9036f3902a)
 
