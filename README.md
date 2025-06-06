@@ -129,6 +129,7 @@ https://goo.gl/maps/CghSicAvrM6nnYJ8A
 * Đa thức và ứng dụng
 * Bất đẳng thức và ứng dụng trong đại số, số học
   * Các phương pháp chứng minh bất đẳng thức
+  * Phương trình bậc hai, tam thức bậc hai, đa thức bậc 4 và bài toán chứng minh bất đẳng thức
   * Bất đẳng thức số học
 * Phương trình bậc hai một ẩn số và định lí Viet
   * Điều kiện có nghiệm của một phương trình bậc hai
