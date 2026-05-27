@@ -5,8 +5,6 @@ https://goo.gl/maps/CghSicAvrM6nnYJ8A
 
 ## 2025-2026:
 ![image](https://github.com/user-attachments/assets/047a0a02-31b9-42e0-afdf-2bb58a9857c3)
-![image](https://github.com/user-attachments/assets/50d49000-cc65-4569-8039-0c12caf074e7)
-![image](https://github.com/user-attachments/assets/d4966a98-e71d-4852-958a-9998e84ee5f2)
 
 ## 2024-2025:
 ![image](https://github.com/user-attachments/assets/e848afec-64bc-45b1-99e8-efe98a66ae00)
