@@ -1,7 +1,9 @@
 # De-Thi-Toan-Chuyen-Tuyen-Sinh-Lop-10-Chuyen-Toan-Trung-Hoc-Pho-Thong-TP.HCM
 * Tuyển tập Đề Thi Toán Chuyên Tuyển Sinh Lớp 10 Trung Học Phổ Thông TP.HCM (Vào Lớp 10 Chuyên Toán Các Trường THPT Chuyên Lê Hồng Phong, THPT Chuyên Trần Đại Nghĩa, THPT Nguyễn Thượng Hiền,... TP.HCM) Triết sử dụng cho các lớp toán nâng cao, toán chuyên PTNK, toán không chuyên PTNK cho các bạn học sinh lớp 6, 7, 8 và lớp 9, tối 2-4-6, 3-5-7, thứ 7-CN hàng tuần.
-* Liên hệ học thử các lớp toán online và offline: 0962797946 (FaceTime, Zalo,...), [Facebook](https://www.facebook.com/trietptm), gần ngã ba Hồ Văn Huê - Nguyễn Kiệm, Phú Nhuận.
-https://goo.gl/maps/CghSicAvrM6nnYJ8A
+* Liên hệ học thử các lớp toán online và offline: 0962797946 (FaceTime, Zalo,...), [Facebook](https://www.facebook.com/trietptm) ở khu vực quận 3, gần các quận 1, 5, 10, Phú Nhuận, Bình Thạnh hoặc đăng ký học lớp toán chuyên sáng chủ nhật với thầy Triết ở trung tâm [PTNK HUB](https://www.facebook.com/PTNKHUB) tại trường Phổ thông Năng khiếu cơ sở quận 5. Thầy tư vấn cho phụ huynh và học sinh vào sáng thứ bảy hàng tuần ở nhà thầy từ 8h-12h sáng gần ngã ba Hồ Văn Huê - Nguyễn Kiệm, Phú Nhuận: https://goo.gl/maps/CghSicAvrM6nnYJ8A .
+  * Bạn Phạm Dương Thùy Anh, thủ khoa tuyệt đối môn toán với 2 điểm 10 toán chuyên và toán không chuyên PTNK năm 2026 và cũng là thủ khoa kì thi tuyển sinh năm 2026 của Trường Phổ thông Năng khiếu - ĐHQG TP. HCM chỉ học lớp toán đặc biệt/Năng Khiếu của thầy Triết từ năm lớp 8 và không cần học thêm toán ở trung tâm nào khác. Bạn Thùy Anh cũng đã thi đậu lớp 10 chuyên toán Đại Học Sư Phạm Hà Nội năm 2026.
+  * Các lớp toán chuyên PTNK của thầy Triết đã có 26 bạn đậu chuyên Toán trường Phổ Thông Năng Khiếu, Quận 5, 36 bạn thi đậu các lớp chuyên toán của trường Lê Hồng Phong và Trần Đại Nghĩa và 1 bạn đậu lớp chuyên toán của trường Đại Học Sư Phạm Hà Nội.
+* 
 
 ## 2025-2026:
 ![image](https://github.com/user-attachments/assets/047a0a02-31b9-42e0-afdf-2bb58a9857c3)
